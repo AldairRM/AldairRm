@@ -1,8 +1,14 @@
 ## Olá, eu sou Aldair Reis e trabalho como desenvolvedor fullstack. 👋
 
+Bem-vindo ao meu GitHub!  
+Gosto de criar coisas legais com diferentes tecnologias e experimentar novas ideias.
 
-<!--
-**AldairRM/AldairRm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+Um projeto que criei recentemente e acho bem interessante é este feito com **Vite**:  
+🌐 [https://aldairrm.github.io/projeto-com-vite](https://aldairrm.github.io/projeto-com-vite)
+
+Sinta-se à vontade para explorar meu perfil e ver minhas outras criações! 🚀
+
+## Mais sobre mim
 - 🔭 Hoje estou trabalhando com C# e Angular.
 - 🌱 Estou estudando Microsserviços e Modelagem de IA
 - ⚡ Curiosidades: aprendo pixel-art como hobby.
@@ -30,6 +36,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldairRM&layout=compact&langs_count=16&theme=dracula&locale=pt-br" />
 </div>
 
+<p>Dê uma olhada nos meus projetos! </p>
+<a href="https://aldairrm.github.io/projeto-com-vite">https://aldairrm.github.io/projeto-com-vite</a>
 <br>
 
 ### Redes Sociais 🌐
