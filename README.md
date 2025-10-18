@@ -32,7 +32,7 @@ Sinta-se à vontade para explorar meu perfil e ver minhas outras criações! �
 ![snake gif](https://github.com/AldairRM/AldairRM/blob/output/github-snake-dark.svg)
 
 <div style="display: flex; gap: 10px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AldairRM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br" />
+  <img height="180em" src="https://github-readme-streak-stats-six-flame-32.vercel.app?user=AldairRM&theme=dracula&locale=pt_BR" alt="GitHub Streak" /></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldairRM&layout=compact&langs_count=16&theme=dracula&locale=pt-br" />
 </div>
 
