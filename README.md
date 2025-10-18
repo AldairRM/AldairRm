@@ -36,10 +36,6 @@ Sinta-se à vontade para explorar meu perfil e ver minhas outras criações! �
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldairRM&layout=compact&langs_count=16&theme=dracula&locale=pt-br" />
 </div>
 
-<p>Dê uma olhada nos meus projetos! </p>
-<a href="https://aldairrm.github.io/projeto-com-vite">https://aldairrm.github.io/projeto-com-vite</a>
-<br>
-
 ### Redes Sociais 🌐
 <div> 
   <a href="https://instagram.com/aldair_reism" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
