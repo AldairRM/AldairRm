@@ -7,9 +7,10 @@
 - 🌱 Estou estudando Microsserviços e Modelagem de IA
 - ⚡ Curiosidades: aprendo pixel-art como hobby.
 
+<br>
 
 ### Linguagens e Tecnologias 💻
-<div style="display: inline_block;"><br>
+<div style="display: inline_block;">
   <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -18,16 +19,18 @@
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+<br>
 
 ### Estatísticas 📊
-##
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&pause=1000&color=29F74D&width=435&lines=Transformando+caf%C3%A9+em+c%C3%B3digo%3A)](https://git.io/typing-svg)
 ![snake gif](https://github.com/AldairRM/AldairRM/blob/output/github-snake-dark.svg)
-##
+
 <div style="display: flex; gap: 10px;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AldairRM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldairRM&layout=compact&langs_count=16&theme=dracula&locale=pt-br" />
 </div>
 
+<br>
 
 ### Redes Sociais 🌐
 <div> 
