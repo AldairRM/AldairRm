@@ -38,3 +38,11 @@
   <a href = "mailto:aldair.miranda2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/aldair-miranda-7b618b171" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+##
+
+<div align="right">
+  <img src="https://raw.githubusercontent.com/AldairRM/AldairRM/main/assets/aldair_programando.gif" 
+       alt="Meu GIF" 
+       width="512" height="512"/>
+</div>
