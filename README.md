@@ -3,8 +3,12 @@
 Bem-vindo ao meu GitHub!  
 Gosto de criar coisas legais com diferentes tecnologias e experimentar novas ideias.
 
-Um projeto que criei recentemente e acho bem interessante é este feito com **Vite**:  
-🌐 [https://aldairrm.github.io/projeto-com-vite](https://aldairrm.github.io/projeto-com-vite)
+Um exemplo seria esse projeto divertido que criei e se trata de um **Flappy Bird** feito apenas com JavaScript e HTML:  
+🌐 [https://aldairrm.github.io/FlappyBirdJS](https://aldairrm.github.io/FlappyBirdJS)
+
+Outro projeto divertido que desenvolvi é recentemente testando as funcionalidades do **Vite**:  
+🌐 [https://aldairrm.github.io/projeto-com-vite](https://aldairrm.github.io/projeto-com-vite)  
+
 
 Sinta-se à vontade para explorar meu perfil e ver minhas outras criações! 🚀
 
